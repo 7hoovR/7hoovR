@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @7hoovR
-- 👀 I’m interested in Coding/Game dev
+- 👀 I’m interested in Web Dev/Game dev
 - 🌱 I’m currently learning C#/C++
 - 💞️ I’m looking to collaborate on School projects and small games
 - 📫 How to reach me
